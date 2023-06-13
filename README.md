@@ -1,4 +1,4 @@
-# giri--kay-t
+
 # ilk-projem
 
 ![](giris.gif)
